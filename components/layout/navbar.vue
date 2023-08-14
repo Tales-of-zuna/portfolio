@@ -125,8 +125,8 @@ export default {
           link: "/projects",
         },
         {
-          name: "Talks",
-          link: "/talks",
+          name: "Experiments",
+          link: "/Experiments",
         },
         {
           name: "Podcasts",

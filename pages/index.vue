@@ -3,7 +3,9 @@
     class="bg-black flex min-h-screen p-4 justify-center pt-24 md:items-center"
   >
     <div class="text-gray-400 w-full md:w-1/3 space-y-8">
-      <p class="text-3xl text-gray-200 font-semibold">Zuunbileg.B</p>
+      <p class="text-3xl text-gray-200 transition-all font-semibold">
+        Zuunbileg.B
+      </p>
       <p class="">Hey, I am Zuunbileg, a system development engineer.</p>
       <p>
         Working at
@@ -40,8 +42,8 @@
         experiments.
       </p>
       <p>
-        Outside of programming, I enjoy doing photography, and cooking. Some of
-        my photos can be found on
+        Outside of programming, I enjoy doing road biking, playing volleyball,
+        taking photographs and cooking. Some of my photos can be found on
         <NuxtLink
           to="https://www.instagram.com/zuna.btw/?hl=en"
           class="text-gray-200 hover:underline font-semibold"
