@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./entry.9f0d9d0b.js";const c={},o={class:"bg-black flex pt-28 justify-center items-center"};function n(r,a,_,i,p,f){return s(),t("div",o,"Blogs")}const d=e(c,[["render",n]]);export{d as default};
